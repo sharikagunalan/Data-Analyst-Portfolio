@@ -110,7 +110,7 @@ https://drive.google.com/drive/folders/10GvJU6_VYoY0m7i40lsUA_rppmclkwK_
 
 ## 🗄️ SQL Queries:
 
-📄 [View SQL Queries](Supply%20Chain%20Management%20Analysis.sql)
+📄 [View SQL Queries](Supply Chain Management Analysis.SQL)
 
 ## 📜 CERTIFICATIONS:
 - Data Analyst - Excelr
