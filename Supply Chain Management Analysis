@@ -1,0 +1,33 @@
+# 📊 Supply Chain Management Analysis
+
+### 🛠️ Tools Used
+- SQL
+- Tableau
+
+### 🎯 Problem
+Analyze supply chain data to identify trends, optimize operations, and support business decision-making.
+
+### 🔄 Process
+- Cleaned and explored the dataset.
+- Used SQL to analyze sales, orders, and performance metrics.
+- Built an interactive Tableau dashboard to visualize KPIs.
+
+### 📈 Dashboard Features
+- Total Orders
+- Total Sales
+- Region-wise Performance
+- Monthly Sales Trend
+- Product-wise Analysis
+
+## 📊 Tableau Dashboard
+
+
+
+
+
+## 🗄️ SQL Queries
+
+[View SQL Queries](SQL_Queries.sql)
+
+### ✅ Conclusion
+This project demonstrates my ability to analyze data using SQL and create interactive visualizations in Tablea
