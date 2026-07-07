@@ -108,6 +108,10 @@ https://drive.google.com/drive/folders/10GvJU6_VYoY0m7i40lsUA_rppmclkwK_
 
 ![Tableau Dashboard](./Supply%20Chain%20TD%20SS.png)
 
+## 🗄️ SQL Queries:
+
+📄 [View SQL Queries](Supply%20Chain%20Management%20Analysis.sql)
+
 ## 📜 CERTIFICATIONS:
 - Data Analyst - Excelr
      🔗 https://ibb.co/ks3Wz0qC
